@@ -22,7 +22,7 @@
 "In 1994 in Scotland, a Chinook helicopter crashed and killed all 29 passengers. While initially the pilot was blamed for the crash, that decision was later overturned since there was evidence that a systems error had been the actual cause.
 Another example of a software-induced flight crash happened in 1993, when an error in the flight-control software for the Swedish JAS 39 Gripen fighter aircraft was behind a widely publicized crash in Sweden."
 
-I have no knowledge about flight-control software, but: i'd imagine that you could simulate that the plain took flight with som mockups. One mockup test before those flights might have safed lifes. 
+I have no knowledge about flight-control software, but: i'd imagine that you could simulate that the aircraft took flight with som mockups. One mockup test before those flights might have safed lifes. 
 
 
 ### **Investigation of tools:**
